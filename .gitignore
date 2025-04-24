@@ -1,0 +1,11 @@
+# Cache Python
+__pycache__/
+*.pyc
+
+# Dossier venv
+venv/
+.env
+*.env
+
+# Streamlit
+.streamlit/
